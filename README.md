@@ -1,8 +1,12 @@
 # Paggi :: Vagas de Tecnologia
 
-Este repositório destina-se a divulgação de vagas para trabalhar na Paggi.
+A Paggi é uma Fintech de processamentos de pagamento eletrônico, tanto por meio online (ecommerce) quando presencial (máquininhas de cartão).
 
-Caso você deseje se candidatar a alguma delas, envie seu currículo para vemserdev@paggi.com. Sempre damos um feedback quando temos vagas em aberto, mesmo quando você não se adeque ao que procuramos! ;)
+Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atualmente, temos 8 micro-serviços em produção, alguns escritos em Elixir e outros em Clojure, alguns usando bancos de dados relacionais, outros bancos não relacionais, de acordo com o problema que é resolvido.
+
+Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma delas, envie seu currículo para vemserdev@paggi.com. Sempre damos um feedback quando temos vagas em aberto, mesmo quando você não se adeque ao que procuramos! ;)
+
+Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação é PJ, ok?
 
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.  
 
