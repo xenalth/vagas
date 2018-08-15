@@ -6,7 +6,7 @@ Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atua
 
 Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma delas, envie seu currículo para vemserdev@paggi.com. Sempre damos um feedback quando temos vagas em aberto, mesmo quando você não se adeque ao que procuramos! ;)
 
-Todas as vagas são para trabalho presencial em Sâo Paulo.
+Nosso escritório está localizado em Higienópolis, São Paulo, e nossas vagas são para trabalhar lá.
 
 Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação é PJ, ok?
 
