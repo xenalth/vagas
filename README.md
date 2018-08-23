@@ -2,15 +2,22 @@
 
 A Paggi é uma Fintech de processamentos de pagamento eletrônico, tanto por meio online (ecommerce) quando presencial (máquininhas de cartão).
 
-Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atualmente, temos 8 micro-serviços em produção, alguns escritos em Elixir e outros em Clojure, alguns usando bancos de dados relacionais, outros bancos não relacionais, de acordo com o problema que é resolvido.
-
-Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma delas, envie seu currículo para vemserdev@paggi.com. Sempre damos um feedback quando temos vagas em aberto, mesmo quando você não se adeque ao que procuramos! ;)
+Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atualmente, temos 8 micro-serviços em produção, alguns escritos em Elixir e outros em Clojure. Na camada de banco de dados, usamos PostGreSQL como banco de dados relacional, e outros bancos não relacionais de diversos tipos, de acordo com o problema que é resolvido.
 
 Nosso escritório está localizado em Higienópolis, São Paulo, e nossas vagas são para trabalhar lá.
 
+## O que oferecemos
+
 Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação é PJ, ok?
 
-Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.  
+# Vagas Abertas
+
+Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma delas, envie seu currículo para vemserdev@paggi.com. Sempre damos um feedback quando temos vagas em aberto, mesmo quando você não se adeque ao que procuramos! ;)
+
+Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
+
+* [Engenheiro de Software Sênior](#engenheiro-de-software-sênior)
+* [Engenheiro de Software Pleno](#engenheiro-de-software-pleno)
 
 ## Engenheiro de Software Sênior
 
