@@ -8,6 +8,10 @@ Nosso escritório está localizado em Higienópolis, São Paulo, e nossas vagas 
 
 ## O que oferecemos
 
+1. Cooler com breja de sexta
+2. Terça em dobro de pizza
+3. e muito código para ser feito!!!
+
 Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação é PJ, ok?
 
 # Vagas Abertas
