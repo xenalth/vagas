@@ -20,7 +20,7 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
 
-* [Estagiário em Tecnologia da Informação](#estagiario-em-tecnologia-da-informação)
+* [Estagiário em Tecnologia da Informação](#estagiário-em-tecnologia-da-informação)
 * [Analista desenvolvedor full-stack](#analista-desenvolvedor-full-stack)
 
 ## Estagiário em Tecnologia da Informação
