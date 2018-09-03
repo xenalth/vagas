@@ -32,20 +32,20 @@ Requisitos:
 * Excelente comunicação escrita e verbal;
 * Conhecimentos em lógica de programação;
 * Pró-atividade, resiliência e muita vontade de aprender;
-* Imprescindível está cursando qualquer curso na área de tecnologia, preferêncialmente com foco em desenvolvimento de software;
+* Imprescindível está cursando qualquer curso na área de tecnologia, preferêncialmente com foco em desenvolvimento de software.
 
 
 Desejável:
 
 * Entender o que é e como funciona o padrão REST;
 * Entender como representar dados utilizando JSON;
-* Já possuir algum conhecimento em qualquer linguagem de programação;
+* Já possuir algum conhecimento em qualquer linguagem de programação.
 
 
 Diferencial:
 
 * Conhecer ITIL, especialmente gerenciamento de incidentes;
-* Conhecer como funciona um processo de integração de sistemas via API;
+* Conhecer como funciona um processo de integração de sistemas via API.
 
 
 ## Analista Desenvolvedor Full Stack
@@ -61,12 +61,12 @@ Requisitos:
 * Bons conhecimento em programação orientada a objetos;
 * Capacidade de trabalho com uma equipe multidisciplinar;
 * Desenvolver código limpo, de fácil compreensão e manutenção;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
+* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código.
 
 
 Desejável:
 * Conhecer processo de integração com a VTEX;
-* Já ter trabalhado com alguma plataforma de e-commerce, seja qual for;
+* Já ter trabalhado com alguma plataforma de e-commerce, seja qual for.
 
 
 Diferenciais:
