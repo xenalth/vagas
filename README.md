@@ -2,7 +2,7 @@
 
 A Paggi é uma Fintech de processamentos de pagamento eletrônico, tanto por meio online (ecommerce) quando presencial (máquininhas de cartão).
 
-Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atualmente, temos 8 micro-serviços em produção, alguns escritos em Elixir e outros em Clojure. Na camada de banco de dados, usamos PostGreSQL como banco de dados relacional, e outros bancos não relacionais de diversos tipos, de acordo com o problema que é resolvido.
+Trabalhamos com uma Stack moderna, usando a arquitetura de micro-serviços. Atualmente, temos vários micro-serviços em produção, alguns escritos em Elixir e outros em Clojure. Na camada de banco de dados, usamos PostGreSQL como banco de dados relacional, e outros bancos não relacionais de diversos tipos, de acordo com o problema que é resolvido.
 
 Nosso escritório está localizado em Higienópolis, São Paulo, e nossas vagas são para trabalhar lá.
 
@@ -12,7 +12,7 @@ Nosso escritório está localizado em Higienópolis, São Paulo, e nossas vagas 
 2. Terça em dobro de pizza
 3. e muito código para ser feito!!!
 
-Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação é PJ, ok?
+Sobre a remuneração, nós costumamos avaliar individualmente cada candidato, levando em consideração a experiência individual, e alinhar junto com ele um valor de remuneração que seja vantajosa para ambos e condizente com a realidade de cada um e do mercado. Nosso modelo de contratação para desenvolvedores é PJ, ok?
 
 # Vagas Abertas
 
@@ -20,61 +20,54 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
 
-* [Engenheiro de Software Sênior](#engenheiro-de-software-sênior)
-* [Engenheiro de Software Pleno](#engenheiro-de-software-pleno)
+* [Estagiário em Tecnologia da Informação](#estario-em-tecnologia-da-informação)
+* [Analista desenvolvedor full-stack](#analista-desenvolvedor-full-stack)
 
-## Engenheiro de Software Sênior
+## Estagiário em Tecnologia da Informação
 
-Requisitos:
-
-* Experiência de pelo menos 4 anos com desenvolvimento de backend, com qualquer linguagem;
-* Sólidos conhecimentos em padrões de arquitetura para API RESTFul;
-* Vivência com bancos de dados relacionais e não relacionais;
-* Desenvolver código limpo, de fácil compreensão e manutenção;
-* Interesse por novas tecnologias e padrões de arquitetura "fora da caixa";
-* Capacidade de trabalho com uma equipe multidisciplinar;
-* Ter um sólido background em arquitetura, micro-serviços e processamento assíncrono;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-* Conhecer Linux: Saber gerenciar serviços, buscar informações em logs e compreendê-las;
-* Conhecer Docker: Subir um ambiente, gerar uma imagem, subi-la num registry e executá-la em sua máquina local.
-
-Desejável:
-
-* Conhecimentos em Elixir ou Clojure, ou alguma outra linguagem funcional;
-* Alguma experiência prévia com arquitetura baseada em eventos;
-
-Diferencial:
-
-* Conhecimento em DevOps, preferencialmente usando Ansible;
-* Conhecimento em arquiteturas utilizando os 12 fatores;
-* Experiência com bancos de dados orientados a grafo.
-* Conhecimento em Docker Swarm ou alguma ferramenta de clusterização;
-
-## Engenheiro de Software Pleno
-
+Quer trabalhar em uma empresa onde você aprender de verdade, fazendo coisas muito mais empolgantes e legais do que configurar uma impressora ou fazer manutenção em equipamentos? Então mande seu currículo e vem trabalhar com nosso time!
 
 Requisitos:
 
-* Experiência de pelo menos 2 anos com desenvolvimento de backend, com qualquer linguagem;
-* Bons conhecimentos em padrões de arquitetura para API RESTFul;
-* Vivência com bancos de dados relacionais, preferencialmente PostgreSQL;
-* Desenvolver código limpo, de fácil compreensão e manutenção;
-* Capacidade de trabalho com uma equipe multidisciplinar;
-* Ter tido algum contato, ao menos teórico, com arquitetura de micro-serviços;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-* Conhecer Linux: Saber gerenciar serviços, buscar informações em logs e compreendê-las;
-* Conhecer Docker: Subir um ambiente, gerar uma imagem, subi-la num registry e executá-la em sua máquina local.
+* Excelente comunicação escrita e verbal;
+* Conhecimentos em lógica de programação;
+* Pró-atividade, resiliência e muita vontade de aprender;
+* Imprescindível está cursando qualquer curso na área de tecnologia, preferêncialmente com foco em desenvolvimento de software;
+
 
 Desejável:
 
-* Conhecimentos em Elixir ou Clojure, ou alguma outra linguagem funcional;
-* Alguma experiência prévia com arquitetura baseada em eventos ou micro-serviços;
+* Entender o que é e como funciona o padrão REST;
+* Entender como representar dados utilizando JSON;
+* Já possuir algum conhecimento em qualquer linguagem de programação;
+
 
 Diferencial:
 
-* Conhecimento em DevOps, preferencialmente usando Ansible;
-* Conhecimento em arquiteturas utilizando os 12 fatores;
-* Experiência com bancos de dados orientados a grafo.
-* Conhecimento em Docker Swarm ou alguma ferramenta de clusterização;
+* Conhecer ITIL, especialmente gerenciamento de incidentes;
+* Conhecer como funciona um processo de integração de sistemas via API;
 
 
+## Analista Desenvolvedor Full Stack
+
+Quer trabalhar desenvolvendo soluções de integração da nossa plataforma com diversas outras, ajudar a definir o design de nossas APIs e criar ferramentas para ajudar outros desenvolvedores, como SDKs e bibliotecas? Manda seu currículo! :)
+
+
+Requisitos:
+* Experiência de no mínimo 1 ano com desenvolvimento de software;
+* Saber programar em PHP, Ruby ou Python;
+* Ter vontade de aprender novas tecnologias;
+* Conhecer versionamento de código com git;
+* Bons conhecimento em programação orientada a objetos;
+* Capacidade de trabalho com uma equipe multidisciplinar;
+* Desenvolver código limpo, de fácil compreensão e manutenção;
+* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
+
+
+Desejável:
+* Conhecer processo de integração com a VTEX;
+* Já ter trabalhado com alguma plataforma de e-commerce, seja qual for;
+
+
+Diferenciais:
+* Ter alguma noção de programação funcional.
