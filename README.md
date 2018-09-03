@@ -56,6 +56,7 @@ Quer trabalhar desenvolvendo soluções de integração da nossa plataforma com 
 Requisitos:
 * Experiência de no mínimo 1 ano com desenvolvimento de software;
 * Saber programar em PHP, Ruby ou Python;
+* Conhecer HTML, CSS e Javascript;
 * Ter vontade de aprender novas tecnologias;
 * Conhecer versionamento de código com git;
 * Bons conhecimento em programação orientada a objetos;
