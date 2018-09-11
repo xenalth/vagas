@@ -62,7 +62,8 @@ Requisitos:
 * Bons conhecimento em programação orientada a objetos;
 * Capacidade de trabalho com uma equipe multidisciplinar;
 * Desenvolver código limpo, de fácil compreensão e manutenção;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código.
+* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
+* Realizar o teste do nosso [teste técnico de integrações](/paggi-com/vagas/teste-integracoes/README.md).
 
 
 Desejável:
