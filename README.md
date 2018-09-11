@@ -63,7 +63,7 @@ Requisitos:
 * Capacidade de trabalho com uma equipe multidisciplinar;
 * Desenvolver código limpo, de fácil compreensão e manutenção;
 * Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-* Realizar o teste do nosso [teste técnico de integrações](/paggi-com/vagas/teste-integracoes/README.md).
+* Realizar o teste do nosso [teste técnico de integrações](/teste-integracoes/README.md).
 
 
 Desejável:
