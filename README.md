@@ -20,33 +20,7 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
 
-* [Estagiário em Tecnologia da Informação](#estagiário-em-tecnologia-da-informação)
 * [Analista desenvolvedor full-stack](#analista-desenvolvedor-full-stack)
-
-## Estagiário em Tecnologia da Informação
-
-Quer trabalhar em uma empresa onde você aprender de verdade, fazendo coisas muito mais empolgantes e legais do que configurar uma impressora ou fazer manutenção em equipamentos? Então mande seu currículo e vem trabalhar com nosso time!
-
-Requisitos:
-
-* Excelente comunicação escrita e verbal;
-* Conhecimentos em lógica de programação;
-* Pró-atividade, resiliência e muita vontade de aprender;
-* Imprescindível está cursando qualquer curso na área de tecnologia, preferêncialmente com foco em desenvolvimento de software.
-
-
-Desejável:
-
-* Entender o que é e como funciona o padrão REST;
-* Entender como representar dados utilizando JSON;
-* Já possuir algum conhecimento em qualquer linguagem de programação.
-
-
-Diferencial:
-
-* Conhecer ITIL, especialmente gerenciamento de incidentes;
-* Conhecer como funciona um processo de integração de sistemas via API.
-
 
 ## Analista Desenvolvedor Full Stack
 
