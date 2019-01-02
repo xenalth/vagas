@@ -49,4 +49,4 @@ Desejável:
 * Conhecimento em Kubernetes;
 * Conhecimento em Apache Kafka ou RabbitMQ;
 * Conhecimento em Elixir, Clojure ou outra linguagem funcional;
-* Conhecer ao menos um destes: Ansible, Chef, Puppet ou CF-Enfine;
+* Conhecer ao menos um destes: Ansible, Chef, Puppet ou CFEnfine;
