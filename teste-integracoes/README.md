@@ -24,7 +24,7 @@ OU
 
 # Requisitos:
 
-* Pode utilizar um banco de dados relacional ou não relacional
+* Pode utilizar um banco de dados relacional ou não relacional.
 * Na API, utilizar um dos micro-frameworks abaixo:
     * [Flask](http://flask.pocoo.org/)
     * [Sinatra](http://sinatrarb.com/)
@@ -35,6 +35,6 @@ OU
     * Não utilize cURL;
     * Escolha alguma biblioteca de integração HTTP, e justifique esta escolha no README do projeto;
     * Sua API terá autenticação no futuro, assim, seu SDK já deverá suportar o recebimento de um token de autenticação.
-* Deverá ser explicado o motivo de cada escolha.
+
 
 
