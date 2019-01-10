@@ -23,6 +23,7 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
 
 * [Líder Técnico](#líder-técnico)
+* [Analista Desenvolvedor Fullstack](#analista-desenvolvedor-fullstack)
 
 ## Líder Técnico
 
