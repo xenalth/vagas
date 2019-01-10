@@ -66,7 +66,7 @@ Requisitos:
 * Capacidade de trabalho com uma equipe multidisciplinar;
 * Desenvolver código limpo, de fácil compreensão e manutenção;
 * Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-* Realizar o teste do nosso teste técnico de integrações.
+* Realizar o teste do nosso [teste técnico de integrações](https://github.com/paggi-com/vagas/tree/master/teste-integracoes).
 
 Desejável:
 
