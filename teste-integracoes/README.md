@@ -6,6 +6,7 @@ Você possui uma empresa de pagamentos, e precisa implementar uma API através d
 |---|---|
 |number|Número do cartão|
 |holder_name|O nome do dono do cartão|
+|cvv|Código de segurança do cartão|
 
 Para facilitar o processo de integração, você precisa fornecer um SDK escrito em PHP, através do qual seus clientes possam realizar a integração de forma facilitada.
 
@@ -15,12 +16,15 @@ Assim, você deve:
     * Atualizar um cartão de crédito;
     * Obter um cartão de crédito pelo seu ID;
     * Excluir um cartão de crédito.
+
 * Implementar um SDK que facilitará o processo de integração nas operações acima.
+OU
+* Implementar a API acima em uma interface simples.
 
 
 # Requisitos:
 
-* Não é necessário utilizar banco de dados, os dados da API poderão ser fake;
+* Pode utilizar um banco de dados relacional ou não relacional
 * Na API, utilizar um dos micro-frameworks abaixo:
     * [Flask](http://flask.pocoo.org/)
     * [Sinatra](http://sinatrarb.com/)
@@ -31,5 +35,6 @@ Assim, você deve:
     * Não utilize cURL;
     * Escolha alguma biblioteca de integração HTTP, e justifique esta escolha no README do projeto;
     * Sua API terá autenticação no futuro, assim, seu SDK já deverá suportar o recebimento de um token de autenticação.
+* Deverá ser explicado o motivo de cada escolha.
 
 
