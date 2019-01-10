@@ -50,3 +50,29 @@ Desejável:
 * Conhecimento em Apache Kafka ou RabbitMQ;
 * Conhecimento em Elixir, Clojure ou outra linguagem funcional;
 * Conhecer ao menos um destes: Ansible, Chef, Puppet ou CFEnfine;
+
+## Analista Desenvolvedor Fullstack
+
+Quer trabalhar desenvolvendo soluções de integração da nossa plataforma com diversas outras, ajudar a definir o design de nossas APIs e criar ferramentas para ajudar outros desenvolvedores, como SDKs e bibliotecas? Manda seu currículo! :)
+
+Requisitos:
+* Experiência de no mínimo 1 ano com desenvolvimento de software;
+* Saber programar em PHP, Ruby ou Python;
+* Conhecer HTML, CSS e Javascript;
+* Ter vontade de aprender novas tecnologias;
+* Conhecer versionamento de código com git;
+* Bons conhecimento em programação orientada a objetos;
+* Capacidade de trabalho com uma equipe multidisciplinar;
+* Desenvolver código limpo, de fácil compreensão e manutenção;
+* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
+* Realizar o teste do nosso teste técnico de integrações.
+
+Desejável:
+
+* Conhecer processo de integração com a VTEX;
+* Já ter trabalhado com alguma plataforma de e-commerce, seja qual for.
+
+Diferenciais:
+
+* Ter alguma noção de programação funcional.
+
