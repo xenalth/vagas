@@ -17,7 +17,8 @@ Assim, você deve:
     * Obter um cartão de crédito pelo seu ID;
     * Excluir um cartão de crédito.
 
-* Implementar um SDK que facilitará o processo de integração nas operações acima.
+* Criar um SDK para facilitar o processo
+* Implementar o SDK em um back-end simples.
 OU
 * Implementar a API acima em uma interface simples.
 
