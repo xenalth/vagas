@@ -30,7 +30,7 @@ OU
     * [Flask](http://flask.pocoo.org/)
     * [Sinatra](http://sinatrarb.com/)
     * [Grape](https://github.com/ruby-grape/grape)
-    * [Spark](https://spark.apache.org/)
+    * [Spark](http://sparkjava.com/)
     * [Slim](https://www.slimframework.com/)
 * No SDK:
     * Não utilize cURL;
