@@ -22,58 +22,22 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 
 Se você tiver uma conta aqui no GitHub, não deixe de incluí-la no seu currículo.
 
-* [Líder Técnico](#líder-técnico)
-* [Analista Desenvolvedor Fullstack](#analista-desenvolvedor-fullstack)
+* [Engenheiro de Software](#engenheiro-de-software)
 
-## Líder Técnico
+## Engenheiro de Software
 
 Que tal trabalhar com uma stack moderna, e de quebra ainda ajudar a criar soluções de pagamento inovadoras, concebidas para arquitetura escalável? Manda seu currículo pra gente! =) 
 
 Requisitos técnicos:
-* Experiência de pelo menos 7 anos na área de tecnologia;
 * Sólidos conhecimentos em padrões de arquitetura para API RESTFul;
-* Vivência com bancos de dados relacionais e não relacionais;
-* Ter um sólido background em arquitetura e micro-serviços;
-* Conhecimento em message broker e processamento assíncrono;
+* Conhecimentos em bancos de dados relacionais e não relacionais;
+* Conhecimentos em arquitetura e micro-serviços;
+* Conhecimentos em message broker e processamento assíncrono;
 * Vivência com Linux ou outros sistemas Unix;
-* Conhecimento avançado em Docker;
-* Conhecimento em plataformas de Cloud como AWS ou similares;
+* Conhecimentos em Docker;
+* Conhecimentos em plataformas de Cloud como AWS ou similares;
 * Conhecer ferramentas de gerenciamento de configurações;
 
 O que esperamos de você:
-* Espirito de liderança;
 * Desenvolver código limpo, de fácil compreensão e manutenção;
 * Trabalhar com uma equipe multidisciplinar;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-
-Desejável:
-* Conhecimento em Kubernetes;
-* Conhecimento em Apache Kafka ou RabbitMQ;
-* Conhecimento em Elixir, Clojure ou outra linguagem funcional;
-* Conhecer ao menos um destes: Ansible, Chef, Puppet ou CFEnfine;
-
-## Analista Desenvolvedor Fullstack
-
-Quer trabalhar desenvolvendo soluções de integração da nossa plataforma com diversas outras, ajudar a definir o design de nossas APIs e criar ferramentas para ajudar outros desenvolvedores, como SDKs e bibliotecas? Manda seu currículo! :)
-
-Requisitos:
-* Experiência de no mínimo 1 ano com desenvolvimento de software;
-* Saber programar em PHP, Ruby ou Python;
-* Conhecer HTML, CSS e Javascript;
-* Ter vontade de aprender novas tecnologias;
-* Conhecer versionamento de código com git;
-* Bons conhecimento em programação orientada a objetos;
-* Capacidade de trabalho com uma equipe multidisciplinar;
-* Desenvolver código limpo, de fácil compreensão e manutenção;
-* Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
-* Realizar o teste do nosso [teste técnico de integrações](https://github.com/paggi-com/vagas/tree/master/teste-integracoes).
-
-Desejável:
-
-* Conhecer processo de integração com a VTEX;
-* Já ter trabalhado com alguma plataforma de e-commerce, seja qual for.
-
-Diferenciais:
-
-* Ter alguma noção de programação funcional.
-
